@@ -1,1 +1,1 @@
-# PRODIGY_DS_03
+The project demands to build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The Model accuracy we obtained was approximately 89%.
